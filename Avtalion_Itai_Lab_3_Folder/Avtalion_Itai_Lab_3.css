@@ -1,0 +1,28 @@
+#body1 {
+background-color: teal;
+padding: 2%;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.stats{
+height: 65%;
+width: 40%;
+background-color: teal;
+font-size: larger;
+font-family: 'Courier New', Courier, monospace;
+
+  
+}
+
+#header{
+background-color: teal;
+color: white;
+text-align: center;
+margin: 5px;
+}
+
+#picture{
+border: 10px;
+border-color: red;
+}
